@@ -11,7 +11,8 @@ Configuring a modern AI-assisted coding environment with Claude Code and Tenx MC
 - Claude Code CLI + Tenx MCP server connected
 - CLAUDE.md configured following Boris Cherny's best practices
 
-![alt text](image.png)
+<img width="703" height="855" alt="image" src="https://github.com/user-attachments/assets/903984f0-0979-4936-99f7-5272595862f1" />
+
 
 ## Author
 Zerubabel J.
