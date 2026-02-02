@@ -47,5 +47,6 @@ git push origin master
 ```
 
 ## Learning Log
-<!-- Add mistakes and corrections here as they happen -->
-- [Add learnings as we work together]
+<!-- Mistakes and corrections are to be added here as they happen -->
+- Set up MCP server and verified connection via `/mcp`
+
